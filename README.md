@@ -22,7 +22,7 @@ The repository is organized into different sections to help you easily navigate 
 ## 🚀 How to Run
 
 1. Clone the repository: `git clone https://github.com/ishanxsinghal/java.git`
-2. 2. Open any `.java` file in your preferred IDE  
+2. Open any `.java` file in your preferred IDE  
 3. Compile and run the program
 
 ## ✅ Topics Covered
