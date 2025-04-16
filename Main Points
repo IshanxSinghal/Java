@@ -1,0 +1,4 @@
+1. Array objects are in heap. 
+2. Heap objects are not continuous. 
+3. In arrays, Dynamic Memory Allocation (DMA) is used. 
+4. Hence, array may or may not be continuous -> It depends on JVM (java virtual machine). 
