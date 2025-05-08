@@ -10,3 +10,9 @@ like int, char, float, boolean, etc.
 #### Non-Primitive Data Types
 These are complex data types which can be further broken down. It includes data types like
 Arrays, String (can be broken down into characters), etc. 
+
+##ArrayList<>
+1. In the array lists the size of input doesn't matter, since it can take as many inputs as you want even after
+declaring a specific size. 
+2. To insert elements we use objectname.add() and to print we directly use System.out.println(objectname_Arraylist);
+3. To print the arraylist using for loop and to get the value at an index, we use, objectname.get(index value(i in case of for loop)).
