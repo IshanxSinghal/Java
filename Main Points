@@ -16,3 +16,14 @@ Arrays, String (can be broken down into characters), etc.
 declaring a specific size. 
 2. To insert elements we use objectname.add() and to print we directly use System.out.println(objectname_Arraylist);
 3. To print the arraylist using for loop and to get the value at an index, we use, objectname.get(index value(i in case of for loop)).
+
+
+##Strings 
+In order to use '+' operator, there needs to be atleast one string with primitives or complex datatypes in order for it to work. 
+For Ex: 
+        System.out.println(new Integer(53) + new ArrayList<>()); 
+
+        This will throw an error. 
+        But, 
+              System.out.println(new Integer(53) + "" + new ArrayList<>()); Output: 53[]
+              This is valid, as there is alteast one string present.
