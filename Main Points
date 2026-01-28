@@ -27,3 +27,7 @@ For Ex:
         But, 
               System.out.println(new Integer(53) + "" + new ArrayList<>()); Output: 53[]
               This is valid, as there is alteast one string present.
+
+
+##Recursion 
+Whenever you need to pass any variable in future function calls put it in the argument. 
